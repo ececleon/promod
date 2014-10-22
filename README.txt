@@ -17,6 +17,7 @@ Added an intro tank to Parish 5.
 Tank will now lose rage while survivors are in the saferoom on Parish 5.
 Removed all of the reduced damage cars from the "tank arena" portion of the bridge.
 Added a full damage hittable car to the "tank arena" portion of the bridge.
+Increased pill count in tank arena from 2 to 4.
 Removed the maze of balance from the end of Parish 5.
 Removed escape tanks from Parish 5.
 Increased Parish 5 map distance to 600.
