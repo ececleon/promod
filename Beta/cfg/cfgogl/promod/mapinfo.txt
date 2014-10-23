@@ -233,6 +233,8 @@
         "end_point"         "3001.944092 6272.879395 494.284149"
         "end_dist"          "130.807541"
         "max_distance"      "600"
+        "tank_ban_flow_min" "15"
+        "tank_ban_flow_max" "100"
     }
     "c6m1_riverbank"
     {
