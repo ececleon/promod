@@ -1,5 +1,6 @@
-Beta-
+Beta
 
+To Do / Being Tested:
 Added "Warm Up" to readyup. You can enable a warmup round with !warmup.
 Removed water slowdown prints.
 You will now receive your starting pills when the round goes live.
