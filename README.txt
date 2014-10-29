@@ -2,11 +2,6 @@ Beta
 
 To Do / Being Tested:
 Added "Warm Up" to readyup. You can enable a warmup round with !warmup.
-Removed water slowdown prints.
-You will now receive your starting pills when the round goes live.
-Ghost hurt triggers are now enabled when the round goes live.
-Infected ghost warp rebound from Attack 2 (m2) to Reload.
-Infinite melee weapon spawns reduced to single pick up.
 Infected can no longer be lit on fire. They will however still take damage while standing in fire.
 Added back gascans.
 Gascans can now be lit on fire by spit.
@@ -23,4 +18,3 @@ Removed the maze of balance from the end of Parish 5.
 Removed escape tanks from Parish 5.
 Increased Parish 5 map distance to 600.
 Dark Carnival 3 coaster is now non-solid and will not damage infected. (Including witch)
-Banned a useless witch spawn on Hard Rain 4.
